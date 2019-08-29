@@ -6,6 +6,14 @@ Android项目组件化实例
 
 
 
+git@github.com:likuihaotime/DevModuleDemo.git
+
+echo "# DevModuleDemo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:likuihaotime/DevModuleDemo.git
+git push -u origin master
 
 
 
